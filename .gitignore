@@ -1,0 +1,9 @@
+# --- Python 編譯產物 ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+
+
+
